@@ -61,3 +61,4 @@ Tipo de Variable: Continua.
 EngagementLevel (Nivel de Compromiso):
 Representación: Variable objetivo: 'High', 'Medium', o 'Low' compromiso.
 Tipo de Variable: Categórica Ordinal (tienen jerarquia esas categorias). 
+
