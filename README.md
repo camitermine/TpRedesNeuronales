@@ -8,6 +8,7 @@ Este proyecto se enfoca en el desarrollo de una red neuronal de clasificación p
 1. Descripción de cada columna del conjunto de datos 
 
 **No se van a utilizar para entrenar la red**
+
 PlayerID: 
 Representación: Identificador único para cada jugador.
 Tipo de Variable: Categórica. 
