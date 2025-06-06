@@ -1,4 +1,4 @@
-# Trabajo Práctico Matemática III - Redes Neuronales
+# Trabajo Práctico - Redes Neuronales
 
 Este proyecto se enfoca en el desarrollo de una red neuronal de clasificación para predecir el nivel de compromiso (EngagementLevel) de jugadores de videojuegos, utilizando el siguiente dataset: [Predict Online Gaming Behavior Dataset](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
 
