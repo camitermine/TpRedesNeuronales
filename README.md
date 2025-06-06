@@ -83,6 +83,7 @@ Retropropagación manual
 Ajuste de pesos con descenso por gradiente estocástico (SGD puro)
 
 ### 3. Entrenamiento y Evaluación
+![Figure_3](https://github.com/user-attachments/assets/4fae1102-5bfa-4ba8-9855-5bf6e8771467)
 La red fue entrenada usando aproximadamente 32.000 registros, con una sola capa oculta y 100 épocas (epochs). 
 Durante el entrenamiento se trazaron curvas de precisión y de costo.
 Precisión obtenida:
